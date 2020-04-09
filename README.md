@@ -1,6 +1,6 @@
 ## Trillo App
 
-A web application mockup made only use flexbox
+A web application mockup made only use flexbox, this is the second project from [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) course.
 
 <p align="center" >
   <a href="https://kien-trillo-app.netlify.com/">Live Demo</a>
